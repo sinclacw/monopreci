@@ -1,0 +1,36 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS metadata
+.DS_Store
+._*
+
+# Simulation outputs
+logs/
+results/
+fields/
+
+# Common generated data
+*.npz
+*.dump
+*.prof
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*~
+*.swp
+*.tmp

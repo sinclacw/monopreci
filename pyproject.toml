@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "monopole-precip"
+version = "1.0.0"
+description = "Particle-based precipitation kinetics using direct and scale-separated monopole formulations"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    {name = "Chad W. Sinclair"},
+]
+dependencies = [
+    "numpy",
+    "scipy",
+]
+
+[project.urls]
+Repository = "https://github.com/sinclacw/monopreci"
+
+[project.scripts]
+monopreci = "monopole_precip.run_case:main"
+monopreci-reconstruct = "monopole_precip.concentrationfield.reconstruct_field:main"
+
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
