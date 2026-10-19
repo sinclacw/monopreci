@@ -187,7 +187,7 @@ G\_\{\\mathrm\{SR\}\}\(\\mathbf\{x\}\-\\mathbf\{R\}\_j\;\\ell\)$
 The screened short-range Green's function is
 
 $G\_\{\\mathrm\{SR\}\}\(r\;\\ell\) \=
-\\frac\{\\operatorname\{erfc\}\(r\/\\ell\)\}\{4\\pi r\}
+\\frac\{\{erfc\}\(r\/\\ell\)\}\{4\\pi r\}
 \- \\frac\{\\ell\^2\}\{4V\}$
 
 The particle-scale short-range fields are treated quasistatically, while the
