@@ -499,18 +499,47 @@ published.
 
 ## License
 
-The licensing terms for Mono'Preci are being finalized prior to public
-release.
+Copyright © 2026 The University of British Columbia.
 
-Until a license is provided, no permission is granted to use, copy, modify,
-or redistribute the software except as otherwise permitted by law.
+Mono'Preci is made available under the UBC Research Use
+Software License.
+
+The software may be used, modified, and redistributed for
+research, teaching, and educational purposes by individuals
+and organizations, including academic, nonprofit, government,
+and for-profit organizations, subject to the terms of the license.
+
+Permitted activities include internal research and development,
+evaluation, and testing. Commercial use, as defined in the
+license, is not permitted without a separate agreement.
+
+See [LICENSE](LICENSE) for the complete terms and conditions.
+
+For commercial licensing inquiries, contact
+techtransfer@innovation.ubc.ca.
 
 ## Disclaimer
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Mono'Preci is provided "AS IS", without warranty of any kind.
+
+The software is distributed under the UBC Research Use Software
+License. Please refer to the [LICENSE](LICENSE) file for the
+complete warranty disclaimer, limitations of liability, and
+conditions of use.
+
+## Citation
+
+If you use Mono'Preci in published research, please cite:
+
+C. W. Sinclair,
+*A Scale-Separated Full-Field Monopole Method for
+Precipitation Modelling*,
+arXiv:2610.05436 (2026).
+DOI: 10.48550/arXiv.2610.05436.
+
+Publications arising from use of Mono'Preci must also include
+the acknowledgment specified in Section 9 of the license:
+
+> The Software used in this research was created by
+> Chad Sinclair of The University of British Columbia
+> (“UBC”). © 2026 UBC.
