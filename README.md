@@ -179,24 +179,16 @@ For systems containing concentration variations over substantially larger
 length scales, the concentration field is decomposed into short- and
 long-range contributions,
 
-$begin:math:display$
-c\(\\mathbf\{x\}\,t\)
-\=
-C\_\{\\mathrm\{LR\}\}\(\\mathbf\{x\}\,t\)
-\+
-\\sum\_j Q\_j
-G\_\{\\mathrm\{SR\}\}\(\\mathbf\{x\}\-\\mathbf\{R\}\_j\;\\ell\)\.
-$end:math:display$
+
+$c\(\\mathbf\{x\}\,t\) \=
+C\_\{\\mathrm\{LR\}\}\(\\mathbf\{x\}\,t\)\+ \\sum\_j Q\_j
+G\_\{\\mathrm\{SR\}\}\(\\mathbf\{x\}\-\\mathbf\{R\}\_j\;\\ell\)$
 
 The screened short-range Green's function is
 
-$begin:math:display$
-G\_\{\\mathrm\{SR\}\}\(r\;\\ell\)
-\=
+$G\_\{\\mathrm\{SR\}\}\(r\;\\ell\) \=
 \\frac\{\\operatorname\{erfc\}\(r\/\\ell\)\}\{4\\pi r\}
-\-
-\\frac\{\\ell\^2\}\{4V\}\.
-$end:math:display$
+\- \\frac\{\\ell\^2\}\{4V\}$
 
 The particle-scale short-range fields are treated quasistatically, while the
 complementary long-range field evolves according to transient diffusion.
