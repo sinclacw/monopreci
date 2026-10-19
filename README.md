@@ -19,7 +19,8 @@ and spatially resolved precipitation kinetics.
 Mono'Preci accompanies the methodology described in:
 
 > C. W. Sinclair, *A Scale-Separated Full-Field Monopole Method for
-> Precipitation Modelling*, publication details to be added.
+> Precipitation Modelling*, arXiv:2610.05436 (2026).
+> DOI: https://doi.org/10.48550/arXiv.2610.05436
 
 ## Installation
 
